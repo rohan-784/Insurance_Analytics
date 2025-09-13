@@ -1,6 +1,11 @@
 # Insurance_Analytics
 To analyze insurance business performance across New Business, Cross Sell, and Renewals by consolidating data from multiple sources and building an interactive analytics solution that tracks revenue growth, target achievements, and pipeline health.
 
+## Tech Stack
+- Database: MySQL
+- Data Preparation: Excel (Power Query, Pivot Tables)
+- Visualization: Power BI, Tableau
+
 ## Dataset Used
 - <a href= "https://github.com/rohan-784/Insurance_Analytics/commit/6594010997cdb26853e3402d0a4de4a1b05c2c71">Insurance Dataset</a>
 
