@@ -27,10 +27,14 @@ To analyze insurance business performance across New Business, Cross Sell, and R
 - Built dashboards in Power BI and Tableau for interactive KPI tracking and trend analysis.
 - Designed custom visuals including side-by-side bar/line combo charts, dual-axis growth trends, and funnel views.
 
-## Excel Dashboard <a href="">View</a>
-## Power BI Dashboard <a href="">View</a>
-## Tableau Dashboard <a href="">View</a>
-## SQL Output <a href="">View</a>
+## Excel Dashboard <img width="1145" height="607" alt="image" src="https://github.com/user-attachments/assets/c5e6db53-210e-4230-a634-ca0fbdf946d6" />
+
+## Power BI Dashboard <img width="1117" height="607" alt="image" src="https://github.com/user-attachments/assets/befebc71-d299-4acd-85e2-f1ada621b3a4" />
+
+## Tableau Dashboard <img width="1112" height="603" alt="image" src="https://github.com/user-attachments/assets/c883728b-949b-4c74-9682-74e07f729eef" />
+
+## SQL Output <img width="1293" height="621" alt="image" src="https://github.com/user-attachments/assets/5a22c62f-df2f-49e7-acd2-5f43b8eb9d31" />
+
 
 ## Project Insights
 - Revenue Growth: Achieved a peak growth of 585% in 2018, followed by declines in later years—signaling dependency on a few large deals.
